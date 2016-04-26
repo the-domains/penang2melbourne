@@ -1,0 +1,28 @@
+name: Penang2Melbourne
+favicon: null
+layout_spectrum: 0.03657656186260283
+typography_spectrum: 0.6993741509504616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6752857735846192
+  lightness: 0.4495186544954777
+  saturation: 0.8270420059561729
+  rhythmicContrast: 0.6841885983012617
+purpose: []
