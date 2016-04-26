@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Penang2Melbourne]]></title>
         <description><![CDATA[Penang2Melbourne]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/penang2melbourne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 05:28:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 05:31:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/penang2melbourne/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[The leap]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24ffbf88-5e3c-4ac5-bf0e-2b9b3afdb9d2.jpg">]]></description>
-            <link>undefineda-year-worth-of-hard-work-and-research-finally-paid-off-my/index.html</link>
+            <link>https://thegrid.ai/penang2melbourne/a-year-worth-of-hard-work-and-research-finally-paid-off-my/index.html</link>
             <guid isPermaLink="false">0f8e5551-aec8-46c0-a9bc-6a7a8e4f9dfc</guid>
-            <pubDate>Tue, 26 Apr 2016 05:28:14 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 05:31:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
